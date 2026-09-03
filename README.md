@@ -82,4 +82,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Credits
 
 - Inspired by [Utkarsh Upadhyay's](https://github.com/musically-ut) [first-timers-only-bot](https://github.com/musically-ut/first-timers-only-bot)
-- Beautiful logo and header image designed by [Issac Mikel (@icusficus)](https://github.com/icusficus)
+- Beautiful logo / header image designed by [Issac Mikel (@icusficus)](https://github.com/icusficus)
